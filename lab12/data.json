@@ -1,0 +1,7 @@
+[
+  {"id": 1, "title": "Бег", "category": "кардио", "amount": 30, "completed": true},
+  {"id": 2, "title": "Планка", "category": "силовая", "amount": 5, "completed": false},
+  {"id": 3, "title": "Велотренажёр", "category": "кардио", "amount": 45, "completed": true},
+  {"id": 4, "title": "Приседания", "category": "силовая", "amount": 15, "completed": false},
+  {"id": 5, "title": "Растяжка", "category": "восстановление", "amount": 10, "completed": true}
+]
